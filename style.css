@@ -1,0 +1,49 @@
+/*GENERAL CSS*/
+
+body{
+	font-size: 16px;
+	margin: 0px;
+}
+
+#nav-list{
+	list-style-type: none;
+	padding: 0px;	
+	margin: 0px;
+}
+
+
+#nav-list li{
+	
+	display:inline-block;
+	margin-top: 0px;
+}
+
+#nav{
+	background-color: #303D74;	
+}
+
+
+li a{
+	display: block;
+}
+
+a{
+	font-family: Arial;
+	padding: 10px;
+	text-decoration: none;
+	color: white;
+}
+
+
+#main{
+	background-image: url(sample.jpg);
+	background-size: cover;
+	background-position: center center;
+	padding-top: 300px;
+	padding-bottom: 300px;
+}
+
+#name{
+	text-align: center;
+	
+}
